@@ -1,0 +1,17 @@
+D:\AIUB\2 FINAL\OOP2\Lab\Project_HMS\Project_HMS\bin\Debug\Project_HMS.exe
+D:\AIUB\2 FINAL\OOP2\Lab\Project_HMS\Project_HMS\bin\Debug\Project_HMS.exe.config
+D:\AIUB\2 FINAL\OOP2\Lab\Project_HMS\Project_HMS\obj\Debug\Project_HMS.Login.resources
+D:\AIUB\2 FINAL\OOP2\Lab\Project_HMS\Project_HMS\obj\Debug\Project_HMS.ManagerDashboard.resources
+D:\AIUB\2 FINAL\OOP2\Lab\Project_HMS\Project_HMS\obj\Debug\Project_HMS.Reservation.resources
+D:\AIUB\2 FINAL\OOP2\Lab\Project_HMS\Project_HMS\obj\Debug\Project_HMS.Properties.Resources.resources
+D:\AIUB\2 FINAL\OOP2\Lab\Project_HMS\Project_HMS\obj\Debug\Project_HMS.csproj.GenerateResource.cache
+D:\AIUB\2 FINAL\OOP2\Lab\Project_HMS\Project_HMS\obj\Debug\Project_HMS.csproj.CoreCompileInputs.cache
+D:\AIUB\2 FINAL\OOP2\Lab\Project_HMS\Project_HMS\obj\Debug\Project_HMS.exe
+D:\AIUB\2 FINAL\OOP2\Lab\Project_HMS\Project_HMS\obj\Debug\Project_HMS.pdb
+D:\AIUB\2 FINAL\OOP2\Lab\Project_HMS\Project_HMS\obj\Debug\Project_HMS.csprojAssemblyReference.cache
+D:\AIUB\2 FINAL\OOP2\Lab\Project_HMS\Project_HMS\bin\Debug\Project_HMS.pdb
+D:\AIUB\2 FINAL\OOP2\Lab\Project_HMS\Project_HMS\obj\Debug\Project_HMS.AddRoom.resources
+D:\AIUB\2 FINAL\OOP2\Lab\Project_HMS\Project_HMS\obj\Debug\Project_HMS.BillHistory.resources
+D:\AIUB\2 FINAL\OOP2\Lab\Project_HMS\Project_HMS\obj\Debug\Project_HMS.FoodMenu.resources
+D:\AIUB\2 FINAL\OOP2\Lab\Project_HMS\Project_HMS\obj\Debug\Project_HMS.ExtraService.resources
+D:\AIUB\2 FINAL\OOP2\Lab\Project_HMS\Project_HMS\obj\Debug\Project_HMS.CustomerDetails.resources
